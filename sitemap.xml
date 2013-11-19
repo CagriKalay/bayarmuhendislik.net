@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://bayarmuhendislik.net/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://bayarmuhendislik.net/iletisim</loc><lastmod>2013-11-18T10:46:52+00:00</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bayarmuhendislik.net/hakkimizda</loc><lastmod>2013-11-18T10:43:50+00:00</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bayarmuhendislik.net/projelerimiz</loc><lastmod>2013-11-19T08:20:04+00:00</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bayarmuhendislik.net/hizmetlerimiz</loc><lastmod>2013-11-19T08:21:08+00:00</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://bayarmuhendislik.net/biz-kimiz</loc><lastmod>2013-11-19T08:21:32+00:00</lastmod><changefreq>daily</changefreq></url>
+</urlset>
